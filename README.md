@@ -18,7 +18,7 @@ pnpm prettier --write .
 Check Prettier setup:
 
 ```bash
-pnpm prettier --check .
+pnpm run format
 ```
 
 ### Lint
